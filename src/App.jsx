@@ -5,7 +5,7 @@ import { Route, Routes } from "react-router-dom";
 import Add from "./pages/Add/Add";
 import List from "./pages/List/List";
 import Order from "./pages/Orders/Order";
-import Verify from "../../client/src/pages/verify/Verify";
+// import Verify from "../../client/src/pages/verify/Verify";
 
 const App = () => {
   const url = "https://foodbackend-tx3z.onrender.com";
